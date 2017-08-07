@@ -1,0 +1,19 @@
+{
+  "name": "dlist_node",
+  "version": "1.0.0",
+  "description": "node used to host the d-list app.",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelruvalcaba76/D-List.git"
+  },
+  "author": "Angel Ruvalcaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelruvalcaba76/D-List/issues"
+  },
+  "homepage": "https://github.com/angelruvalcaba76/D-List#readme"
+}
